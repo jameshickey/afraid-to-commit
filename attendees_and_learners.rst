@@ -11,7 +11,7 @@ Workshops
 PyCon Ireland in Dublin, 14th October 2013
 ------------------------------------------
 * Vincent Hussey 
-* James Hickey
+* James Hickey <james.hickey@opw.ie>
 
 PyCon UK in Coventry, 22nd September 2013
 -----------------------------------------
